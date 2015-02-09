@@ -1,0 +1,16 @@
+html body{
+    background: white;
+  }
+
+li{
+  font-family: sans-serif
+ }
+
+.social{
+  text-decoration: none;
+}
+
+li #my-space{
+  font-size: 1em;
+  text-transform: none;
+}
